@@ -1,0 +1,11 @@
+# model checkpoints and data are not versioned
+*.pt
+*.pth
+*.bin
+*.npy
+*.pkl
+*.zip
+data/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

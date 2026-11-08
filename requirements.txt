@@ -1,0 +1,9 @@
+torch>=2.1
+numpy
+scipy
+scikit-learn
+lightgbm
+huggingface_hub
+bert-score
+rouge-score
+matplotlib
